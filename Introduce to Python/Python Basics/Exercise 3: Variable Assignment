@@ -1,0 +1,6 @@
+# Create a variable savings
+x = 5
+savings = 100
+
+# Print out savings
+print(savings)
